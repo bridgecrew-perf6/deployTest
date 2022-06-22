@@ -8,7 +8,7 @@ import Testimonial from './components/Testimonial'
 import Products from './components/Products'
 import Newsletter from './components/Newsletter'
 import Footer from './components/Footer'
-import scrollreveal from "scrollreveal";
+// import scrollreveal from "scrollreveal";
 
 export default function App() {
 //   useEffect(() => {
