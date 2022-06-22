@@ -1,5 +1,5 @@
 import React,{useEffect} from 'react'
-import ScrollToTop from './components/ScrollToTop'
+// import ScrollToTop from './components/ScrollToTop'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Services from './components/Services'
@@ -37,7 +37,7 @@ export default function App() {
 //   }, []);
   return (
     <>
-      <ScrollToTop />
+//       <ScrollToTop />
       <Navbar  />
       <Hero />
       <Services />
